@@ -1,6 +1,9 @@
 <template>
   <div>
-    home
+    <div class="topbox">
+      <div class="nowplaying">正在热映</div>
+      <div class="comingsoon">即将上映</div>
+    </div>
   </div>
 </template>
 
